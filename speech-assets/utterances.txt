@@ -1,0 +1,17 @@
+AMAZON.HelpIntent what now
+AMAZON.HelpIntent what do i do
+AMAZON.HelpIntent what do i do now
+AMAZON.HelpIntent whats next
+
+HitIntent hit me
+HitIntent hit please
+HitIntent I'd like to hit
+StandIntent stand on this
+StandIntent stand please
+StandIntent I'd like to stand
+SurrenderIntent surrender cards
+SurrenderIntent surrender please
+SurrenderIntent I'd like to surrender
+SplitIntent split the cards
+SplitIntent split please
+SplitIntent I'd like to split

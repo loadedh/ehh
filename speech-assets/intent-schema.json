@@ -1,0 +1,28 @@
+{
+  "intents": [
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.YesIntent"
+    },
+    {
+      "intent": "AMAZON.NoIntent"
+    },
+    {
+      "intent": "endSessionIntent"
+    },
+    {
+      "intent": "HitIntent"
+    },
+    {
+      "intent": "StandIntent"
+    },
+    {
+      "intent": "SurrenderIntent"
+    },
+    {
+      "intent": "SplitIntent"
+    },
+  ]
+}
